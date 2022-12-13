@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="imagse">
+    <file>images/界面.png</file>
+    <file>images/界面.png</file>
+    <file>images/界面.png</file>
+    <file>images/界面1.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>images/拉框箭头1.png</file>
+    <file>images/关闭.png</file>
+    <file>images/最小化.png</file>
+  </qresource>
+</RCC>
